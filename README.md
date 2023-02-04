@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um player de música
+Um card de produto
 
 ## 🔖 Layout
 
